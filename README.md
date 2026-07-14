@@ -1,0 +1,1 @@
+Network Address Translation (NAT) is a technique that allows multiple devices on a private local network to share a single, globally routable public IP address to access the internet. It works by modifying the source and destination IP addresses in packet headers as they pass through a routing device
